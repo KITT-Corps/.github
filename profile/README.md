@@ -11,4 +11,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We are Computer Science Undergrads who are working on cool projects and stuff, that helps the Data Engineers, Data Scientists and Data Analysts in automating their daily tasks. 
+Welcome to the Open Source Contributing Community ▶️ **Chaos Corps**
+
+Community Members:
+1️⃣ Krishna Priyatam - CS Undergrad
+2️⃣ Tarun - CS Undergrad
+
+➡️ This organisation mainly focuses towards cool projects and stuff that are helpful in the real-world to the CS working professionals, CS undergrads etc., We, as a team currently focusing on developing a automated framework that helps the Data Engineers, Data Scientists and Data Analysts in automating their Data Ingestion pipelines.  
