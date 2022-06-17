@@ -10,3 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+We are Computer Science Undergrads who are working on cool projects and stuff, that helps the Data Engineers, Data Scientists and Data Analysts in automating their daily tasks. 
