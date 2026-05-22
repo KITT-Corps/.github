@@ -6,6 +6,7 @@ Welcome to the Kitt Corps private organization ▶️ **Kitt Corps** ◀️
 🚂 Organization Owners:
 
 1️⃣ Krishna Priyatham Potluri
+2️⃣ Tarun Sai Bala Gopal Chitta
 
 🙋🏻‍♂️ Introduction:
 
