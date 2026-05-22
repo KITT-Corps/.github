@@ -5,8 +5,7 @@ Welcome to the Kitt Corps private organization ▶️ **Kitt Corps** ◀️
 
 🚂 Organization Owners:
 
-1️⃣ Krishna Priyatham - CS Undergrad
-2️⃣ Tarun - CS Undergrad
+1️⃣ Krishna Priyatham Potluri
 
 🙋🏻‍♂️ Introduction:
 
